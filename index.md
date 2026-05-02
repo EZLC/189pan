@@ -1,3 +1,3 @@
-- 签到时间 2026-05-01 22:34:39 [![签到状态](https://github.com/y377/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/y377/189pan/actions/workflows/main.yml)
+- 签到时间 2026-05-02 12:33:58 [![签到状态](https://github.com/y377/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/y377/189pan/actions/workflows/main.yml)
 - 开始执行帐号1
-- 图形验证码错误，请重新输入
+- 账户名或密码错误
